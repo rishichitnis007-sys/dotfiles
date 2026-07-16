@@ -1,3 +1,6 @@
 [user]
       name = [Rishi Chitnis]
       email = [rishichitnis007@gmail.com]
+
+[diff]
+      colorMoved = Default
